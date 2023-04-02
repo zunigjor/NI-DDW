@@ -1,4 +1,4 @@
-= HW1
+= HW1 - Data Acquisition - Web Crawler/Scraper
 
 https://courses.fit.cvut.cz/NI-DDW/hw/01/index.html
 
