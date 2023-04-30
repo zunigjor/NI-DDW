@@ -1,0 +1,443 @@
+,PageID,VisitID,PageName,CatName,CatID,ExtCatName,ExtCatID,TopicName,TopicID,TimeOnPage,PageScore,SequenceNumber,Referrer,Day,Hour,Length_seconds,Length_pagecount,Type
+37,3066,1192,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",143,4,URI_9,Monday,1.0,300.0,8.0,Catalogue
+38,3066,1192,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",83,6,URI_9,Monday,1.0,300.0,8.0,Catalogue
+56,3075,1204,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_80,Monday,7.0,120.0,6.0,Fulltext
+92,3097,1216,HOWTOJOIN,Trip,3,undetected,-1,exotica,5,"(27.39, 82.2]",191,9,URI_42,Monday,9.0,1200.0,11.0,Fulltext
+94,3099,1216,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,11,URI_42,Monday,9.0,1200.0,11.0,Fulltext
+234,3066,1280,DISCOUNT,Info,4,Sales,8,In general,1000,"(238.8, 291.0]",670,6,URI_0,Monday,10.0,540.0,8.0,
+242,3066,1284,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_0,Monday,10.0,240.0,3.0,
+245,3066,1285,DISCOUNT,Info,4,Sales,8,In general,1000,"(291.0, 343.2]",629,3,URI_0,Monday,11.0,240.0,3.0,
+266,3138,1294,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",71,4,URI_111,Monday,11.0,120.0,4.0,
+408,3066,1343,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Monday,12.0,60.0,2.0,
+411,3075,1345,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_137,Monday,12.0,420.0,4.0,Partners
+553,3075,1408,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_42,Monday,14.0,60.0,3.0,Fulltext
+559,3075,1410,WHOWEARE,Info,4,Who we are,10,In general,1000,"(134.4, 186.6]",377,3,URI_39,Monday,14.0,240.0,5.0,Fulltext
+573,3075,1416,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",30,1,URI_0,Monday,14.0,180.0,7.0,
+594,3066,1427,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",251,3,URI_0,Monday,15.0,180.0,4.0,
+644,3066,1443,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",203,2,URI_42,Monday,15.0,480.0,9.0,Fulltext
+684,3075,1465,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",125,3,URI_78,Monday,16.0,180.0,4.0,Partners
+692,3075,1468,WHOWEARE,Info,4,Who we are,10,In general,1000,"(656.4, 708.6]",1944,7,URI_111,Monday,16.0,1380.0,16.0,
+700,3066,1468,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",203,2,URI_111,Monday,16.0,1380.0,16.0,
+716,3066,1472,DISCOUNT,Info,4,Sales,8,In general,1000,"(291.0, 343.2]",300,1,URI_111,Monday,16.0,1080.0,10.0,
+753,3075,1486,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Monday,16.0,60.0,2.0,
+918,3075,1529,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_9,Monday,18.0,120.0,5.0,Catalogue
+1089,3066,1597,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_111,Monday,22.0,780.0,3.0,
+1109,3066,1608,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_68,Monday,22.0,240.0,9.0,Partners
+1149,3320,1630,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_45,Tuesday,6.0,60.0,2.0,Fulltext
+1179,3075,1642,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",83,6,URI_106,Tuesday,8.0,840.0,6.0,Partners
+1288,3075,1695,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",30,1,URI_111,Tuesday,9.0,60.0,5.0,
+1289,3075,1695,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",125,3,URI_111,Tuesday,9.0,60.0,5.0,
+1291,3138,1695,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",50,2,URI_111,Tuesday,9.0,60.0,5.0,
+1337,3075,1707,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Tuesday,10.0,60.0,2.0,
+1372,3066,1724,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_0,Tuesday,10.0,720.0,3.0,
+1452,3066,1752,DISCOUNT,Info,4,Sales,8,In general,1000,"(1074.0, 1126.2]",2818,5,URI_0,Tuesday,11.0,1320.0,8.0,
+1527,3075,1786,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",116,18,URI_80,Tuesday,12.0,1620.0,29.0,Fulltext
+1528,3075,1786,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",259,28,URI_80,Tuesday,12.0,1620.0,29.0,Fulltext
+1542,3138,1786,INSURANCE,Info,1,Insurance,6,In general,1000,"(134.4, 186.6]",689,17,URI_80,Tuesday,12.0,1620.0,29.0,Fulltext
+1695,3075,1859,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_101,Tuesday,13.0,1080.0,3.0,OwnWebs
+1793,3075,1910,WHOWEARE,Info,4,Who we are,10,In general,1000,"(1178.4, 1230.6]",2031,2,URI_101,Tuesday,15.0,1680.0,8.0,OwnWebs
+1880,3075,1952,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",125,3,URI_0,Tuesday,16.0,120.0,5.0,
+2017,3075,2011,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Tuesday,18.0,120.0,5.0,
+2018,3075,2011,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",143,4,URI_0,Tuesday,18.0,120.0,5.0,
+2078,3075,2036,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Tuesday,19.0,60.0,2.0,
+2332,3075,2139,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_108,Wednesday,7.0,60.0,3.0,Partners
+2419,3066,2168,DISCOUNT,Info,4,Sales,8,In general,1000,"(552.0, 604.2]",1015,2,URI_0,Wednesday,9.0,660.0,4.0,
+2705,3066,2302,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",143,4,URI_0,Wednesday,12.0,120.0,6.0,
+2740,3066,2319,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Wednesday,12.0,60.0,2.0,
+2845,3075,2373,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_5,Wednesday,14.0,180.0,2.0,Catalogue
+2905,3075,2398,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_111,Wednesday,14.0,60.0,3.0,
+2946,3075,2417,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_39,Wednesday,15.0,60.0,2.0,Fulltext
+3025,3075,2448,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_126,Wednesday,15.0,120.0,8.0,Partners
+3078,3075,2465,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_45,Wednesday,16.0,1800.0,21.0,Fulltext
+3079,3075,2465,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",229,17,URI_45,Wednesday,16.0,1800.0,21.0,Fulltext
+3080,3075,2465,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",473,19,URI_45,Wednesday,16.0,1800.0,21.0,Fulltext
+3097,3075,2468,WHOWEARE,Info,4,Who we are,10,In general,1000,"(343.2, 395.4]",939,5,URI_39,Wednesday,16.0,600.0,9.0,Fulltext
+3108,3075,2471,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_116,Wednesday,16.0,60.0,4.0,Other
+3119,3075,2480,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_119,Wednesday,17.0,480.0,4.0,OwnWebs
+3172,3066,2504,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",304,2,URI_0,Wednesday,17.0,660.0,5.0,
+3173,3066,2504,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",156,5,URI_0,Wednesday,17.0,660.0,5.0,
+3199,3066,2511,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",83,6,URI_0,Wednesday,18.0,300.0,6.0,
+3261,3075,2532,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",213,13,URI_92,Wednesday,19.0,1380.0,14.0,Other
+3358,3066,2571,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Wednesday,20.0,300.0,3.0,
+3416,3066,2589,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",120,1,URI_111,Wednesday,21.0,480.0,5.0,
+3531,3075,2634,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Thursday,1.0,60.0,3.0,
+3612,3075,2667,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",78,5,URI_42,Thursday,8.0,420.0,7.0,Fulltext
+3623,3075,2670,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Thursday,8.0,180.0,5.0,
+3639,3075,2678,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",30,1,URI_111,Thursday,8.0,1140.0,8.0,
+3641,3138,2678,INSURANCE,Info,1,Insurance,6,In general,1000,"(82.2, 134.4]",286,4,URI_111,Thursday,8.0,1140.0,8.0,
+3643,3066,2678,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",156,5,URI_111,Thursday,8.0,1140.0,8.0,
+3837,3066,2755,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",304,2,URI_0,Thursday,10.0,600.0,6.0,
+3927,3075,2789,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Thursday,11.0,120.0,5.0,
+3928,3138,2789,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",78,5,URI_0,Thursday,11.0,120.0,5.0,
+4129,3066,2884,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",143,4,URI_80,Thursday,14.0,660.0,5.0,Fulltext
+4229,3066,2914,DISCOUNT,Info,4,Sales,8,In general,1000,"(238.8, 291.0]",626,5,URI_0,Thursday,15.0,1020.0,6.0,
+4414,3075,2984,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",83,6,URI_110,Thursday,16.0,540.0,6.0,
+4416,3066,2984,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",286,4,URI_110,Thursday,16.0,540.0,6.0,
+4544,3723,3052,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",60,1,URI_42,Thursday,20.0,60.0,2.0,Fulltext
+4545,3724,3052,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_42,Thursday,20.0,60.0,2.0,Fulltext
+4601,3075,3078,WHOWEARE,Info,4,Who we are,10,In general,1000,"(238.8, 291.0]",503,3,URI_0,Thursday,22.0,780.0,4.0,
+4716,3066,3126,DISCOUNT,Info,4,Sales,8,In general,1000,"(291.0, 343.2]",837,6,URI_0,Friday,8.0,960.0,9.0,
+4798,3075,3157,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",95,9,URI_132,Friday,8.0,300.0,9.0,OwnWebs
+4860,3066,3182,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Friday,9.0,60.0,2.0,
+4968,3066,3237,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Friday,11.0,60.0,4.0,
+5017,3075,3250,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_9,Friday,11.0,840.0,5.0,Catalogue
+5018,3075,3250,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_9,Friday,11.0,840.0,5.0,Catalogue
+5133,3075,3308,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",143,4,URI_42,Friday,12.0,420.0,5.0,Fulltext
+5409,3075,3403,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",203,2,URI_0,Friday,15.0,120.0,3.0,
+5485,3075,3433,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",114,17,URI_7,Friday,16.0,1260.0,18.0,Other
+5508,3066,3439,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",88,7,URI_93,Friday,16.0,420.0,7.0,Partners
+5583,3066,3474,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Friday,17.0,660.0,5.0,
+5584,3066,3474,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_0,Friday,17.0,660.0,5.0,
+5680,3066,3521,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",203,2,URI_0,Friday,20.0,420.0,4.0,
+5691,3075,3526,WHOWEARE,Info,4,Who we are,10,In general,1000,"(813.0, 865.2]",1422,2,URI_111,Friday,20.0,1440.0,7.0,
+5692,3075,3526,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",143,4,URI_111,Friday,20.0,1440.0,7.0,
+5739,3075,3537,WHOWEARE,Info,4,Who we are,10,In general,1000,"(238.8, 291.0]",406,2,URI_0,Friday,21.0,240.0,4.0,
+5785,3075,3569,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_111,Friday,23.0,60.0,2.0,
+5963,3075,3676,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Saturday,16.0,240.0,2.0,
+6138,3066,3751,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",313,5,URI_111,Saturday,20.0,840.0,11.0,
+6540,3075,3904,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",156,5,URI_111,Sunday,14.0,420.0,10.0,
+6610,3880,3936,HOWTOJOIN,Trip,3,undetected,-1,undetected,-2,"(27.39, 82.2]",50,2,URI_38,Sunday,16.0,300.0,2.0,Fulltext
+6617,3066,3941,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",60,1,URI_80,Sunday,16.0,60.0,2.0,Fulltext
+6623,3066,3943,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",78,5,URI_0,Sunday,16.0,480.0,5.0,
+6695,3075,3983,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Sunday,18.0,120.0,4.0,
+6723,3075,3996,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_138,Sunday,18.0,420.0,4.0,Fulltext
+6771,3075,4017,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_39,Sunday,19.0,60.0,3.0,Fulltext
+6900,3075,4068,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",226,16,URI_38,Sunday,22.0,1860.0,17.0,Fulltext
+7102,3066,4132,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",184,8,URI_42,Monday,8.0,300.0,9.0,Fulltext
+7111,3066,4137,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_0,Monday,9.0,1620.0,3.0,
+7113,3075,4138,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_42,Monday,8.0,120.0,2.0,Fulltext
+7141,3075,4157,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",156,5,URI_0,Monday,10.0,960.0,7.0,
+7142,3075,4157,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",353,7,URI_0,Monday,10.0,960.0,7.0,
+7173,3075,4170,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_80,Monday,10.0,120.0,4.0,Fulltext
+7231,3075,4191,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,11,URI_42,Monday,11.0,1440.0,26.0,Fulltext
+7251,3075,4192,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_0,Monday,10.0,180.0,3.0,
+7305,3075,4223,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",143,4,URI_0,Monday,11.0,600.0,5.0,
+7414,3066,4261,DISCOUNT,Info,4,Sales,8,In general,1000,"(238.8, 291.0]",572,4,URI_111,Monday,12.0,360.0,5.0,
+7429,3066,4267,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_39,Monday,12.0,60.0,2.0,Fulltext
+7435,3138,4271,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",50,2,URI_111,Monday,12.0,60.0,2.0,
+7455,3066,4279,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Monday,13.0,180.0,5.0,
+7466,3075,4285,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Monday,13.0,60.0,2.0,
+7477,3075,4291,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",203,2,URI_9,Monday,13.0,120.0,4.0,Catalogue
+7661,3075,4381,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_9,Monday,15.0,180.0,3.0,Catalogue
+7667,3075,4385,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_15,Monday,15.0,60.0,2.0,Fulltext
+7747,3075,4408,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",83,6,URI_0,Monday,16.0,600.0,6.0,
+7927,3066,4472,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",83,6,URI_0,Monday,18.0,420.0,6.0,
+8098,3075,4561,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",125,3,URI_39,Tuesday,1.0,240.0,4.0,Fulltext
+8248,3066,4645,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",60,1,URI_111,Tuesday,10.0,60.0,2.0,
+8321,3075,4680,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Tuesday,10.0,120.0,4.0,
+8322,3066,4680,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_0,Tuesday,10.0,120.0,4.0,
+8353,3980,4694,HOWTOJOIN,Trip,3,undetected,-1,Lipari,10,"(291.0, 343.2]",300,1,URI_45,Tuesday,11.0,300.0,2.0,Fulltext
+8524,3066,4782,DISCOUNT,Info,4,Sales,8,In general,1000,"(238.8, 291.0]",503,3,URI_0,Tuesday,13.0,480.0,5.0,
+8529,3066,4785,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_80,Tuesday,13.0,240.0,4.0,Fulltext
+8588,3075,4808,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",125,3,URI_0,Tuesday,14.0,1140.0,10.0,
+8589,3075,4808,WHOWEARE,Info,4,Who we are,10,In general,1000,"(552.0, 604.2]",1847,8,URI_0,Tuesday,14.0,1140.0,10.0,
+8784,3075,4879,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_0,Tuesday,15.0,60.0,3.0,
+8859,3066,4919,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_0,Tuesday,16.0,180.0,4.0,
+8903,3075,4938,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Tuesday,17.0,660.0,4.0,
+8999,3075,5004,WHOWEARE,Info,4,Who we are,10,In general,1000,"(238.8, 291.0]",406,2,URI_0,Tuesday,22.0,540.0,6.0,
+9090,3066,5038,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",78,5,URI_0,Wednesday,6.0,240.0,5.0,
+9130,3066,5049,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",60,1,URI_0,Wednesday,7.0,60.0,3.0,
+9135,3066,5050,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",60,1,URI_0,Wednesday,8.0,1500.0,6.0,
+9136,3066,5050,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",83,6,URI_0,Wednesday,8.0,1500.0,6.0,
+9318,3075,5150,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",78,5,URI_0,Wednesday,11.0,600.0,5.0,
+9386,3075,5177,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",88,7,URI_111,Wednesday,12.0,540.0,7.0,
+9388,3066,5177,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_111,Wednesday,12.0,540.0,7.0,
+9474,3066,5215,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",203,2,URI_42,Wednesday,13.0,360.0,5.0,Fulltext
+9475,3066,5215,DISCOUNT,Info,4,Sales,8,In general,1000,"(238.8, 291.0]",572,4,URI_42,Wednesday,13.0,360.0,5.0,Fulltext
+9694,3075,5294,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",88,7,URI_110,Wednesday,15.0,240.0,7.0,
+9711,3138,5303,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",125,3,URI_0,Wednesday,16.0,120.0,4.0,
+9742,3066,5314,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_111,Wednesday,16.0,300.0,3.0,
+9783,3075,5338,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Wednesday,17.0,60.0,2.0,
+9834,4049,5367,HOWTOJOIN,Trip,3,undetected,-1,Tourism,1,"(291.0, 343.2]",300,1,URI_42,Wednesday,19.0,420.0,5.0,Fulltext
+9998,3066,5438,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",30,1,URI_111,Thursday,6.0,60.0,3.0,
+10017,3066,5448,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Thursday,7.0,60.0,4.0,
+10167,3066,5502,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Thursday,10.0,1020.0,6.0,
+10192,3066,5510,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",251,3,URI_0,Thursday,10.0,540.0,7.0,
+10193,3066,5510,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",88,7,URI_0,Thursday,10.0,540.0,7.0,
+10331,3066,5568,DISCOUNT,Info,4,Sales,8,In general,1000,"(447.6, 499.8]",480,1,URI_111,Thursday,12.0,480.0,2.0,
+10455,3075,5635,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_0,Thursday,14.0,120.0,4.0,
+10620,3075,5712,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_80,Thursday,17.0,60.0,6.0,Fulltext
+10664,3066,5746,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_0,Thursday,19.0,60.0,3.0,
+10759,3075,5803,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",313,5,URI_0,Friday,7.0,1380.0,6.0,
+10862,3066,5837,DISCOUNT,Info,4,Sales,8,In general,1000,"(552.0, 604.2]",1259,3,URI_39,Friday,9.0,1140.0,9.0,Fulltext
+11122,4165,5964,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",60,1,URI_38,Friday,13.0,60.0,3.0,Fulltext
+11125,3075,5965,WHOWEARE,Info,4,Who we are,10,In general,1000,"(343.2, 395.4]",609,2,URI_45,Friday,13.0,420.0,3.0,Fulltext
+11218,3066,6005,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",304,2,URI_0,Friday,15.0,180.0,4.0,
+11314,3075,6035,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",335,6,URI_0,Friday,17.0,1440.0,11.0,
+11315,3075,6035,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",92,8,URI_0,Friday,17.0,1440.0,11.0,
+11316,3066,6035,DISCOUNT,Info,4,Sales,8,In general,1000,"(760.8, 813.0]",2035,5,URI_0,Friday,17.0,1440.0,11.0,
+11317,3066,6035,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",191,9,URI_0,Friday,17.0,1440.0,11.0,
+11380,3075,6079,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",78,5,URI_111,Friday,19.0,420.0,5.0,
+11618,3066,6193,DISCOUNT,Info,4,Sales,8,In general,1000,"(238.8, 291.0]",572,4,URI_51,Saturday,17.0,1440.0,12.0,Other
+11831,4158,6300,HOWTOJOIN,Trip,3,undetected,-1,Tourism,1,"(27.39, 82.2]",50,2,URI_45,Sunday,10.0,120.0,2.0,Fulltext
+11866,3075,6324,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",156,5,URI_42,Sunday,11.0,240.0,6.0,Fulltext
+12012,3075,6381,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",125,3,URI_62,Sunday,15.0,120.0,4.0,Other
+12022,3066,6386,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",143,4,URI_0,Sunday,16.0,240.0,7.0,
+12023,3066,6386,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",88,7,URI_0,Sunday,16.0,240.0,7.0,
+12097,3066,6413,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",125,3,URI_0,Sunday,17.0,120.0,7.0,
+12162,3075,6434,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",83,6,URI_0,Sunday,18.0,240.0,6.0,
+12489,3075,6567,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_0,Monday,8.0,120.0,3.0,
+12608,4246,6612,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_42,Monday,10.0,540.0,5.0,Fulltext
+12701,3075,6654,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_80,Monday,11.0,540.0,7.0,Fulltext
+12702,3075,6654,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",83,6,URI_80,Monday,11.0,540.0,7.0,Fulltext
+12754,3066,6676,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",78,5,URI_0,Monday,11.0,300.0,5.0,
+13028,3066,6781,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_0,Monday,14.0,720.0,3.0,
+13038,3075,6787,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_0,Monday,14.0,480.0,4.0,
+13109,3066,6824,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_0,Monday,14.0,600.0,4.0,
+13159,3075,6851,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",156,5,URI_0,Monday,15.0,660.0,6.0,
+13191,3066,6857,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",452,16,URI_111,Monday,16.0,1380.0,22.0,
+13228,3066,6881,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_42,Monday,16.0,60.0,3.0,Fulltext
+13322,3066,6925,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",120,1,URI_111,Monday,19.0,180.0,3.0,
+13360,3075,6941,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_111,Monday,20.0,60.0,2.0,
+13469,4300,7000,HOWTOJOIN,Trip,3,undetected,-1,Tours with lightweight tourism,19,"(27.39, 82.2]",30,1,URI_45,Tuesday,6.0,120.0,3.0,Fulltext
+13483,3066,7005,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Tuesday,7.0,240.0,10.0,
+13530,3075,7025,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_64,Tuesday,8.0,60.0,4.0,Partners
+13553,3075,7033,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_42,Tuesday,8.0,900.0,11.0,Fulltext
+13554,3075,7033,WHOWEARE,Info,4,Who we are,10,In general,1000,"(343.2, 395.4]",939,5,URI_42,Tuesday,8.0,900.0,11.0,Fulltext
+13756,3075,7132,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_87,Tuesday,12.0,60.0,4.0,Fulltext
+13769,3066,7136,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",30,1,URI_111,Tuesday,12.0,60.0,6.0,
+13881,3066,7191,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Tuesday,13.0,60.0,2.0,
+13961,3066,7245,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",286,4,URI_39,Tuesday,15.0,900.0,7.0,Fulltext
+13988,3075,7252,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_100,Tuesday,15.0,180.0,3.0,OwnWebs
+14050,3075,7284,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",184,8,URI_42,Tuesday,16.0,360.0,10.0,Fulltext
+14111,3075,7313,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",88,7,URI_0,Tuesday,17.0,300.0,8.0,
+14114,3138,7313,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",92,8,URI_0,Tuesday,17.0,300.0,8.0,
+14201,3066,7353,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",180,1,URI_111,Tuesday,19.0,960.0,8.0,
+14251,3066,7377,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_0,Tuesday,20.0,180.0,5.0,
+14471,3075,7483,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_0,Wednesday,9.0,240.0,6.0,
+14501,3075,7499,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",30,1,URI_0,Wednesday,10.0,180.0,4.0,
+14545,3075,7521,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Wednesday,11.0,120.0,4.0,
+14670,3075,7564,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_0,Wednesday,12.0,360.0,3.0,
+14685,3066,7567,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",30,1,URI_39,Wednesday,13.0,1020.0,13.0,Fulltext
+14695,3066,7574,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",251,3,URI_39,Wednesday,13.0,180.0,4.0,Fulltext
+14825,3075,7633,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_64,Wednesday,15.0,420.0,16.0,Partners
+14965,3075,7677,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_34,Wednesday,16.0,60.0,2.0,
+15009,3075,7694,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_80,Wednesday,17.0,1320.0,7.0,Fulltext
+15022,3075,7700,WHOWEARE,Info,4,Who we are,10,In general,1000,"(395.4, 447.6]",711,2,URI_42,Wednesday,17.0,480.0,3.0,Fulltext
+15036,3075,7707,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Wednesday,17.0,60.0,3.0,
+15087,3066,7734,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_111,Wednesday,19.0,60.0,3.0,
+15337,3075,7846,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_42,Thursday,10.0,60.0,3.0,Fulltext
+15550,3075,7941,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",286,4,URI_0,Thursday,15.0,300.0,5.0,
+15555,3066,7942,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",286,4,URI_70,Thursday,15.0,720.0,5.0,Other
+15717,3066,8010,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",83,6,URI_0,Thursday,22.0,600.0,7.0,
+15746,3066,8023,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",78,5,URI_45,Friday,0.0,300.0,5.0,Fulltext
+15786,3075,8049,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_111,Friday,12.0,180.0,4.0,
+16156,3075,8227,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Saturday,16.0,60.0,3.0,
+16157,3066,8227,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_0,Saturday,16.0,60.0,3.0,
+16335,3138,8286,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",125,3,URI_80,Saturday,20.0,420.0,6.0,Fulltext
+16504,3066,8365,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",203,2,URI_0,Sunday,10.0,120.0,3.0,
+16562,3075,8391,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_0,Sunday,12.0,120.0,5.0,
+16563,3138,8391,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",101,2,URI_0,Sunday,12.0,120.0,5.0,
+16625,3075,8413,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",92,8,URI_0,Sunday,14.0,1080.0,15.0,
+16628,3138,8413,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",88,7,URI_0,Sunday,14.0,1080.0,15.0,
+16831,3066,8512,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",530,7,URI_0,Sunday,19.0,1560.0,8.0,
+16885,3075,8536,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",125,3,URI_0,Sunday,20.0,1140.0,5.0,
+17194,4469,8655,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",62,3,URI_111,Monday,9.0,60.0,3.0,
+17379,3075,8716,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_42,Monday,11.0,60.0,5.0,Fulltext
+17878,3075,8896,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_0,Monday,14.0,120.0,3.0,
+17879,3138,8896,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",101,2,URI_0,Monday,14.0,120.0,3.0,
+18306,3075,9074,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_44,Monday,21.0,360.0,4.0,Fulltext
+18311,3066,9076,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_0,Monday,21.0,240.0,3.0,
+18372,3075,9097,WHOWEARE,Info,4,Who we are,10,In general,1000,"(552.0, 604.2]",1675,6,URI_0,Monday,22.0,960.0,7.0,
+18380,3066,9101,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_137,Monday,22.0,420.0,3.0,Partners
+18386,3075,9104,WHOWEARE,Info,4,Who we are,10,In general,1000,"(395.4, 447.6]",420,1,URI_111,Monday,22.0,480.0,3.0,
+18524,3066,9174,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_111,Tuesday,7.0,60.0,2.0,
+18528,3075,9176,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_0,Tuesday,7.0,120.0,3.0,
+18534,3075,9177,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_0,Tuesday,8.0,1740.0,10.0,
+18535,3075,9177,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",184,8,URI_0,Tuesday,8.0,1740.0,10.0,
+18550,3066,9180,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_111,Tuesday,7.0,120.0,5.0,
+18615,3075,9200,WHOWEARE,Info,4,Who we are,10,In general,1000,"(291.0, 343.2]",507,2,URI_42,Tuesday,8.0,780.0,9.0,Fulltext
+18673,3138,9223,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",125,3,URI_45,Tuesday,9.0,60.0,3.0,Fulltext
+18723,3066,9235,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Tuesday,10.0,2520.0,20.0,
+19007,3066,9328,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Tuesday,11.0,360.0,9.0,
+19176,3075,9395,WHOWEARE,Info,4,Who we are,10,In general,1000,"(134.4, 186.6]",304,2,URI_132,Tuesday,13.0,300.0,3.0,OwnWebs
+19338,3066,9437,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_65,Tuesday,14.0,120.0,4.0,Other
+19432,3066,9465,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",286,4,URI_0,Tuesday,14.0,480.0,5.0,
+19533,3075,9506,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_111,Tuesday,15.0,360.0,4.0,
+19590,3075,9528,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_113,Tuesday,16.0,600.0,8.0,
+19591,3075,9528,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",88,7,URI_113,Tuesday,16.0,600.0,8.0,
+19605,3075,9534,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",203,2,URI_39,Tuesday,16.0,1440.0,7.0,Fulltext
+19898,3075,9685,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",125,3,URI_0,Tuesday,23.0,480.0,5.0,
+20101,3075,9774,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",78,5,URI_0,Wednesday,9.0,180.0,7.0,
+20233,3066,9790,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",125,3,URI_41,Wednesday,10.0,180.0,5.0,Fulltext
+20261,3066,9798,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",304,2,URI_0,Wednesday,10.0,960.0,7.0,
+20326,3075,9829,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",156,5,URI_0,Wednesday,11.0,360.0,6.0,
+20328,3066,9829,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",143,4,URI_0,Wednesday,11.0,360.0,6.0,
+20694,3075,9964,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Wednesday,14.0,120.0,3.0,
+21291,3066,10235,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",83,6,URI_38,Thursday,6.0,840.0,6.0,Fulltext
+21391,3075,10274,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Thursday,9.0,120.0,4.0,
+21899,3066,10464,DISCOUNT,Info,4,Sales,8,In general,1000,"(447.6, 499.8]",812,2,URI_42,Thursday,14.0,780.0,6.0,Fulltext
+22054,3075,10521,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_9,Thursday,16.0,60.0,2.0,Catalogue
+22135,3075,10555,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_80,Thursday,18.0,120.0,5.0,Fulltext
+22182,3075,10584,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",125,3,URI_0,Thursday,20.0,1080.0,6.0,
+22422,3066,10682,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",167,6,URI_131,Friday,9.0,660.0,12.0,Partners
+22433,3066,10685,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_0,Friday,9.0,240.0,4.0,
+22436,3066,10687,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_111,Friday,10.0,60.0,2.0,
+22540,3066,10721,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",104,12,URI_0,Friday,11.0,780.0,12.0,
+22578,3066,10733,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",125,3,URI_68,Friday,11.0,600.0,12.0,Partners
+22630,3075,10755,WHOWEARE,Info,4,Who we are,10,In general,1000,"(238.8, 291.0]",406,2,URI_0,Friday,12.0,240.0,4.0,
+22631,3075,10755,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_0,Friday,12.0,240.0,4.0,
+22867,3066,10864,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",213,13,URI_39,Friday,20.0,600.0,15.0,Fulltext
+22982,3066,10895,DISCOUNT,Info,4,Sales,8,In general,1000,"(343.2, 395.4]",939,5,URI_70,Saturday,8.0,2280.0,16.0,Other
+23028,3075,10916,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",203,2,URI_111,Saturday,11.0,420.0,6.0,
+23092,3075,10936,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_0,Saturday,12.0,120.0,3.0,
+23194,3075,10974,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_0,Saturday,14.0,360.0,5.0,
+23378,3066,11051,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_45,Saturday,18.0,1320.0,5.0,Fulltext
+23574,3075,11132,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",124,23,URI_0,Saturday,21.0,2460.0,26.0,
+23585,3138,11132,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",125,24,URI_0,Saturday,21.0,2460.0,26.0,
+23586,3066,11132,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",233,18,URI_0,Saturday,21.0,2460.0,26.0,
+23652,3138,11153,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",71,4,URI_0,Saturday,22.0,240.0,4.0,
+23699,3075,11174,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Sunday,0.0,120.0,3.0,
+23755,3075,11194,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_111,Sunday,8.0,420.0,7.0,
+23788,3138,11208,INSURANCE,Info,1,Insurance,6,In general,1000,"(82.2, 134.4]",286,4,URI_132,Sunday,10.0,2400.0,15.0,OwnWebs
+23789,3066,11208,DISCOUNT,Info,4,Sales,8,In general,1000,"(708.6, 760.8]",1511,3,URI_132,Sunday,10.0,2400.0,15.0,OwnWebs
+23933,3075,11259,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",353,7,URI_0,Sunday,12.0,780.0,10.0,
+23970,3066,11276,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Sunday,13.0,60.0,2.0,
+24072,3075,11321,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",99,10,URI_111,Sunday,15.0,540.0,10.0,
+24165,3075,11368,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_132,Sunday,16.0,420.0,4.0,OwnWebs
+24258,3066,11405,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_108,Sunday,17.0,120.0,5.0,Partners
+24407,3066,11473,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Sunday,18.0,60.0,3.0,
+24505,3066,11526,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_42,Sunday,21.0,180.0,3.0,Fulltext
+24532,3075,11541,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",143,4,URI_111,Sunday,22.0,480.0,6.0,
+24535,3138,11541,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",156,5,URI_111,Sunday,22.0,480.0,6.0,
+24537,3066,11541,DISCOUNT,Info,4,Sales,8,In general,1000,"(395.4, 447.6]",1172,6,URI_111,Sunday,22.0,480.0,6.0,
+24792,3066,11664,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_9,Monday,9.0,60.0,3.0,Catalogue
+24808,3066,11673,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",156,5,URI_100,Monday,9.0,1080.0,6.0,OwnWebs
+24812,3075,11675,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",120,1,URI_111,Monday,9.0,780.0,3.0,
+24988,3066,11740,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",78,5,URI_42,Monday,11.0,120.0,5.0,Fulltext
+25137,3066,11787,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",251,3,URI_0,Monday,12.0,1560.0,19.0,
+25138,3066,11787,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",83,6,URI_0,Monday,12.0,1560.0,19.0,
+25432,3066,11900,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",429,4,URI_42,Monday,13.0,960.0,14.0,Fulltext
+25595,3075,11975,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_111,Monday,14.0,120.0,4.0,
+25675,3075,12013,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",83,6,URI_0,Monday,15.0,240.0,7.0,
+25684,3066,12014,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",88,7,URI_0,Monday,15.0,120.0,7.0,
+25803,3066,12062,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Monday,15.0,120.0,2.0,
+25883,3066,12092,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Monday,16.0,60.0,2.0,
+25948,3075,12113,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",88,7,URI_0,Monday,17.0,1380.0,9.0,
+25950,3066,12113,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",95,9,URI_0,Monday,17.0,1380.0,9.0,
+25969,3075,12119,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_80,Monday,17.0,2040.0,8.0,Fulltext
+26128,3075,12186,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_80,Monday,18.0,60.0,2.0,Fulltext
+26197,3066,12214,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",143,4,URI_39,Monday,19.0,1200.0,5.0,Fulltext
+26308,3066,12260,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_9,Monday,20.0,60.0,4.0,Catalogue
+26516,3066,12350,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",286,4,URI_80,Tuesday,1.0,2220.0,33.0,Fulltext
+26692,3066,12427,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",125,3,URI_42,Tuesday,8.0,60.0,5.0,Fulltext
+26765,3075,12449,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_111,Tuesday,9.0,120.0,3.0,
+26922,3066,12500,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",353,7,URI_0,Tuesday,10.0,1380.0,12.0,
+26924,3075,12503,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_80,Tuesday,10.0,120.0,2.0,Fulltext
+27077,3066,12565,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Tuesday,11.0,120.0,2.0,
+27085,3066,12567,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",143,4,URI_113,Tuesday,11.0,420.0,7.0,
+27089,4880,12570,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",30,1,URI_36,Tuesday,11.0,60.0,1.0,Other
+27114,3075,12580,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",236,19,URI_80,Tuesday,11.0,1020.0,20.0,Fulltext
+27364,3066,12675,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",429,4,URI_101,Tuesday,13.0,1080.0,5.0,OwnWebs
+27409,3075,12689,WHOWEARE,Info,4,Who we are,10,In general,1000,"(917.4, 969.6]",960,1,URI_111,Tuesday,13.0,960.0,4.0,
+27600,3075,12771,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",78,5,URI_42,Tuesday,14.0,600.0,5.0,Fulltext
+27669,3066,12802,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",203,2,URI_0,Tuesday,14.0,120.0,4.0,
+27768,3075,12848,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",125,3,URI_0,Tuesday,15.0,300.0,4.0,
+27858,3066,12891,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",203,2,URI_42,Tuesday,16.0,240.0,4.0,Fulltext
+28102,3066,12985,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",176,7,URI_64,Tuesday,18.0,2100.0,9.0,Partners
+28126,3066,12991,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_80,Tuesday,18.0,60.0,4.0,Fulltext
+28211,3066,13025,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",88,7,URI_111,Tuesday,19.0,600.0,17.0,
+28377,3066,13087,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",114,17,URI_0,Tuesday,21.0,1860.0,17.0,
+28503,4686,13138,HOWTOJOIN,Trip,3,undetected,-1,rafting,24,"(27.39, 82.2]",60,1,URI_20,Tuesday,21.0,240.0,6.0,Fulltext
+28510,3075,13140,WHOWEARE,Info,4,Who we are,10,In general,1000,"(134.4, 186.6]",502,6,URI_38,Tuesday,22.0,300.0,7.0,Fulltext
+28512,3138,13140,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",62,3,URI_38,Tuesday,22.0,300.0,7.0,Fulltext
+28565,3075,13147,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",95,9,URI_111,Tuesday,22.0,1200.0,10.0,
+28618,3066,13155,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",436,14,URI_110,Tuesday,22.0,1020.0,15.0,
+28623,3075,13157,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",156,5,URI_0,Tuesday,22.0,180.0,6.0,
+28625,3066,13157,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",286,4,URI_0,Tuesday,22.0,180.0,6.0,
+28785,3066,13212,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",156,5,URI_9,Wednesday,7.0,300.0,6.0,Catalogue
+28828,3066,13227,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_39,Wednesday,7.0,240.0,9.0,Fulltext
+28869,3066,13239,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",286,4,URI_0,Wednesday,8.0,540.0,6.0,
+28936,3066,13258,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",156,5,URI_0,Wednesday,8.0,600.0,19.0,
+29010,3066,13285,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Wednesday,9.0,180.0,4.0,
+29011,3066,13285,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_0,Wednesday,9.0,180.0,4.0,
+29097,3066,13312,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",353,7,URI_132,Wednesday,10.0,1860.0,10.0,OwnWebs
+29116,4235,13320,HOWTOJOIN,Trip,3,undetected,-1,exotica,5,"(27.39, 82.2]",60,1,URI_45,Wednesday,10.0,60.0,2.0,Fulltext
+29272,3075,13393,WHOWEARE,Info,4,Who we are,10,In general,1000,"(134.4, 186.6]",429,4,URI_110,Wednesday,11.0,780.0,5.0,
+29311,3066,13413,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",78,5,URI_111,Wednesday,11.0,120.0,7.0,
+29572,3066,13500,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",120,1,URI_111,Wednesday,13.0,180.0,4.0,
+29574,3075,13501,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Wednesday,13.0,60.0,2.0,
+29754,3066,13575,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",191,9,URI_111,Wednesday,15.0,2460.0,29.0,
+29779,3075,13586,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Wednesday,14.0,60.0,3.0,
+29977,3075,13693,WHOWEARE,Info,4,Who we are,10,In general,1000,"(395.4, 447.6]",420,1,URI_34,Wednesday,17.0,420.0,2.0,
+30155,3066,13779,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Wednesday,19.0,840.0,13.0,
+30339,3066,13864,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",92,8,URI_45,Wednesday,22.0,900.0,8.0,Fulltext
+30475,3075,13915,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_111,Thursday,0.0,120.0,3.0,
+30571,3066,13949,DISCOUNT,Info,4,Sales,8,In general,1000,"(343.2, 395.4]",609,2,URI_42,Thursday,8.0,360.0,3.0,Fulltext
+30690,3066,14005,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",83,6,URI_0,Thursday,9.0,420.0,6.0,
+30793,3075,14037,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Thursday,10.0,240.0,3.0,
+30808,3075,14048,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_9,Thursday,10.0,60.0,2.0,Catalogue
+31023,3075,14137,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",444,15,URI_0,Thursday,12.0,1320.0,20.0,
+31074,3066,14146,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",554,8,URI_42,Thursday,12.0,540.0,9.0,Fulltext
+31165,3066,14192,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_0,Thursday,13.0,120.0,5.0,
+31420,3066,14291,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",60,1,URI_111,Thursday,14.0,300.0,5.0,
+31544,3066,14328,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",203,2,URI_0,Thursday,15.0,780.0,4.0,
+31545,3066,14328,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_0,Thursday,15.0,780.0,4.0,
+31690,3075,14386,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Thursday,16.0,180.0,4.0,
+31785,3075,14430,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Thursday,18.0,60.0,3.0,
+31993,3075,14530,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",203,2,URI_0,Thursday,21.0,300.0,3.0,
+32173,3075,14608,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Friday,7.0,60.0,2.0,
+32320,3066,14678,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",203,2,URI_42,Friday,9.0,180.0,3.0,Fulltext
+32383,3066,14714,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Friday,10.0,240.0,4.0,
+32387,3066,14715,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Friday,10.0,60.0,4.0,
+32551,3066,14779,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",167,6,URI_0,Friday,11.0,600.0,10.0,
+32598,3075,14800,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_39,Friday,12.0,60.0,3.0,Fulltext
+32744,3066,14860,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",71,4,URI_80,Friday,13.0,120.0,6.0,Fulltext
+32797,3075,14891,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Friday,14.0,60.0,2.0,
+32894,3075,14930,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Friday,15.0,480.0,10.0,
+32895,3075,14930,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",99,10,URI_0,Friday,15.0,480.0,10.0,
+33051,3066,14993,DISCOUNT,Info,4,Sales,8,In general,1000,"(395.4, 447.6]",420,1,URI_111,Friday,17.0,3660.0,12.0,
+33052,3066,14993,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,11,URI_111,Friday,17.0,3660.0,12.0,
+33120,3075,15025,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_0,Friday,18.0,300.0,4.0,
+33262,3066,15097,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",125,3,URI_0,Friday,21.0,120.0,5.0,
+33389,3066,15157,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",429,4,URI_132,Friday,23.0,660.0,7.0,OwnWebs
+33470,3075,15179,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Saturday,0.0,60.0,2.0,
+33520,3075,15205,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",30,1,URI_111,Saturday,8.0,60.0,3.0,
+33549,3066,15218,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_134,Saturday,10.0,60.0,4.0,Other
+33594,3066,15232,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",198,10,URI_0,Saturday,11.0,1500.0,11.0,
+33683,3066,15273,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_45,Saturday,13.0,120.0,3.0,Fulltext
+33837,3066,15318,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Saturday,16.0,1320.0,6.0,
+33919,3138,15353,INSURANCE,Info,1,Insurance,6,In general,1000,"(27.39, 82.2]",71,4,URI_111,Saturday,16.0,180.0,6.0,
+34267,5119,15509,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_45,Saturday,22.0,420.0,3.0,Fulltext
+34308,3075,15535,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",120,1,URI_111,Saturday,23.0,120.0,2.0,
+34359,3066,15556,DISCOUNT,Info,4,Sales,8,In general,1000,"(238.8, 291.0]",626,5,URI_0,Sunday,7.0,660.0,7.0,
+34360,3066,15556,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",88,7,URI_0,Sunday,7.0,660.0,7.0,
+34363,3075,15557,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_32,Sunday,7.0,120.0,3.0,Other
+34401,4773,15570,HOWTOJOIN,Trip,3,undetected,-1,VHT,21,"(291.0, 343.2]",300,1,URI_45,Sunday,10.0,840.0,4.0,Fulltext
+34503,3066,15601,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_0,Sunday,11.0,120.0,4.0,
+34542,3066,15624,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_42,Sunday,12.0,60.0,3.0,Fulltext
+34571,3075,15637,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_111,Sunday,12.0,240.0,4.0,
+34597,3066,15645,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",60,1,URI_80,Sunday,12.0,300.0,3.0,Fulltext
+34685,3066,15688,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",60,1,URI_80,Sunday,14.0,60.0,2.0,Fulltext
+34749,3075,15723,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Sunday,15.0,60.0,3.0,
+34901,3066,15790,DISCOUNT,Info,4,Sales,8,In general,1000,"(291.0, 343.2]",883,7,URI_100,Sunday,17.0,2280.0,8.0,OwnWebs
+35403,3075,15978,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",83,6,URI_0,Sunday,23.0,240.0,6.0,
+35491,3066,16019,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",78,5,URI_0,Monday,6.0,420.0,5.0,
+35512,3075,16027,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",167,6,URI_39,Monday,7.0,1800.0,9.0,Fulltext
+35541,5163,16037,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_42,Monday,7.0,120.0,2.0,Fulltext
+35595,3066,16055,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",203,11,URI_39,Monday,8.0,420.0,13.0,Fulltext
+35697,3138,16093,INSURANCE,Info,1,Insurance,6,In general,1000,"(82.2, 134.4]",251,3,URI_0,Monday,9.0,900.0,6.0,
+35959,3075,16174,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",71,4,URI_0,Monday,10.0,60.0,4.0,
+36016,3075,16197,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",60,1,URI_34,Monday,11.0,60.0,2.0,
+36060,3066,16221,DISCOUNT,Info,4,Sales,8,In general,1000,"(238.8, 291.0]",406,2,URI_0,Monday,11.0,240.0,4.0,
+36064,3075,16222,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",62,3,URI_0,Monday,11.0,60.0,5.0,
+36226,3075,16284,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_39,Monday,12.0,240.0,2.0,Fulltext
+36382,3066,16358,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_34,Monday,13.0,420.0,3.0,
+36444,3075,16388,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",101,2,URI_0,Monday,13.0,60.0,4.0,
+36542,3075,16426,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",30,1,URI_111,Monday,14.0,1080.0,9.0,
+36543,3075,16426,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",92,8,URI_111,Monday,14.0,1080.0,9.0,
+36545,3066,16426,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",286,4,URI_111,Monday,14.0,1080.0,9.0,
+36559,3066,16430,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",62,3,URI_45,Monday,14.0,300.0,5.0,Fulltext
+36943,3066,16587,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",30,1,URI_111,Monday,16.0,60.0,4.0,
+37078,3075,16656,WHOWEARE,Info,4,Who we are,10,In general,1000,"(291.0, 343.2]",507,2,URI_111,Monday,18.0,60.0,2.0,
+37141,3066,16690,DISCOUNT,Info,4,Sales,8,In general,1000,"(82.2, 134.4]",313,5,URI_80,Monday,18.0,600.0,8.0,Fulltext
+37312,3075,16777,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_7,Monday,21.0,120.0,4.0,Other
+37341,3075,16793,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",88,7,URI_42,Monday,22.0,540.0,8.0,Fulltext
+37519,3066,16872,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",575,9,URI_111,Tuesday,7.0,1860.0,11.0,
+37598,3075,16905,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",50,2,URI_0,Tuesday,8.0,360.0,5.0,
+37610,3066,16910,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",101,2,URI_9,Tuesday,8.0,180.0,6.0,Catalogue
+37688,3075,16943,WHOWEARE,Info,4,Who we are,10,In general,1000,"(82.2, 134.4]",251,3,URI_0,Tuesday,9.0,420.0,6.0,
+37821,3066,17007,DISCOUNT,Info,4,Sales,8,In general,1000,"(134.4, 186.6]",554,8,URI_101,Tuesday,10.0,780.0,9.0,OwnWebs
+37843,3066,17014,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",50,2,URI_0,Tuesday,10.0,60.0,2.0,
+38217,3075,17162,WHOWEARE,Info,4,Who we are,10,In general,1000,"(27.39, 82.2]",125,3,URI_9,Tuesday,12.0,60.0,4.0,Catalogue
+38397,3066,17243,DISCOUNT,Info,4,Sales,8,In general,1000,"(27.39, 82.2]",125,3,URI_0,Tuesday,14.0,240.0,5.0,
